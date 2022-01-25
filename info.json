@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1038.5059999999999,
+    "videos": [
         "Kiss - Detroit Rock City-iZq3i94mSsQ.mp4",
         "Keane - This Is The Last Time (Official Video)-u86VdOc3asA.mp4",
         "Kaos Etiliko - Pequeñitos-l7sF7jbsYqs.mp4",
@@ -101,7 +102,5 @@
         "KANYE WEST, RAKIM, KRS-ONE, NAS & DJ PREMIER - CLASSIC-YCU-qgR_4bM.mp4",
         "Kany García, Carlos Rivera - Cobardes (Audio)-Hg7ckLhHg3s.mp4",
         "Orchestral Manoeuvres In The Dark - Telegraph-rXXM60niKbg.mp4"
-    ],
-    "id": "k",
-    "total_size": 990.3964999999998
+    ]
 }
